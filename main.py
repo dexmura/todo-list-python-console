@@ -112,11 +112,11 @@ while True:
         if ask == 'yes':
             sample.save_to_json()
             print("File successfully saved.")
-            print("Bye!")
+            print("Bye! bye")
             time.sleep(1)
             break
         elif ask == 'no':
-            print("Bye!")
+            print("Bye bye!")
             time.sleep(1)
             break
         else:
