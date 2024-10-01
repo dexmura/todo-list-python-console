@@ -10,7 +10,7 @@ def decorator_info(func):
 
     return wrapper
 
-
+# Class
 class ToDoList:
     """Imitating a ToDo list"""
 
